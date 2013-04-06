@@ -1,4 +1,26 @@
 /* Custom container */
+.intro-image {
+  float: left;
+  width: 300px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: gray;
+}
+.intro-content {
+  position: relative;
+  left: 30px;
+  font-size: 16px;
+  line-height: 30px;
+}
+.intro-content > ul li{
+  list-style: circle outside;
+}
+.content {
+  clear: both;
+  position: relative;
+  top: 10px;
+}
+
 .container-narrow {
   margin: 0 auto;
   max-width: 700px; }

@@ -47,7 +47,14 @@
     </div>
 
     <div class="container-narrow">
-
+      {% if page.author-intro %}
+      <div class="intro-image">
+          <img src="http://www.gravatar.com/avatar/{{ site.author.gravatar }}?size=300" class="gravatar" />
+      </div>
+      <div class="intro-content">
+	  {{ page.author-intro }}
+      </div>
+      {% endif %}
       <div class="content">
         {{ content }}
       </div>
