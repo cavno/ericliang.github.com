@@ -4,17 +4,17 @@ layout: page
 title: 
 tagline: You never know what you don't know, eh?
 author-intro: <br/>
-  I'm <a href="/">Eric Liang</a>
+  I'm <a href="/">Eric Liang</a>, I'm a(n)
   <ul>
-  <li>I'm a life traveler<br/>
+  <li>Life traveler<br/>
   enjoy running, swimming, hiking and horse riding</li>
-  <li>I'm a hacker<br/>
+  <li>Hacker<br/>
   hack everything interesting</li>
-  <li>I'm a multiple lanaguages programmer<br/>
+  <li>Multiple lanaguages programmer<br/>
   with C/C++, Erlang, Java and <a href="golang.org">Go</a> !</li>
-  <li>I'm an IM technologist<br/>
+  <li>IM technologist<br/>
   on serveral open sourced <a href="xmpp.org">XMPP</a> projects and <a href="">beyond</a></li>
-  <li>I'm an amateur researcher<br/>
+  <li>Amateur researcher<br/>
   on distributed system and artifical intelligence</li>
   </ul>  
   For more information, check <a href="/private/cv.html">here</a>.
