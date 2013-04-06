@@ -17,7 +17,7 @@ author-intro: <br/>
   <li>Amateur researcher<br/>
   on distributed system and artifical intelligence</li>
   </ul>  
-  For more information, check <a href="/private/cv.html">here</a>.
+  Follow me at <a href="http://weibo.com/iyile">Weibo</a> or <a href="http://github.com/ericliang">GitHub</a>. More information, check <a href="/private/cv.html">here</a>.
 
 ---
 {% include JB/setup %}
